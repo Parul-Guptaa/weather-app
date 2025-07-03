@@ -16,7 +16,7 @@ It uses the **OpenWeatherMap API** to fetch live weather data for any city you s
 
 ## 💻 Screenshot
 
-![Screenshot](images/screenshot.png)
+![Screenshot](images/Screenshot.png)
 
 ---
 
